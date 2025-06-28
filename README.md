@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Software engineer at Datadog, working across the stack with Go, TypeScript, and React. Driven by complex problems in fast-moving spaces like AI and financial trading.
+
 <!--
 **Waleed101/Waleed101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
